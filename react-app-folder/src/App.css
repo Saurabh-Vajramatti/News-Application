@@ -1,0 +1,25 @@
+/* .navbar{
+  background-color: purple;
+} */
+/* 
+.todo-list .todo-item{
+  color: blue;
+} */
+
+.mycustom-gradientblue{
+  background-image: linear-gradient(15deg, rgb(8, 8, 54) 0%, rgb(67, 104, 185) 100%);
+}
+
+.styleSearchSuggest{
+  min-width: 200px;
+/* color: rgba(140, 153, 140, 0.034); */
+}
+
+.react-switch{
+  vertical-align: middle;
+}
+
+.switchMiddle{
+  vertical-align: middle;
+}
+
