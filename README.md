@@ -5,7 +5,7 @@
 To see the Real Time News & Weather android application click here: https://github.com/Saurabh-Vajramatti/Real-time-News-and-Weather-Android-Application
 
 # Tools and Technologies used
-    1.  AJAX and JSON.
+    1.  Fetch and JSON.
     2.  Client side:  HTML5, React-Bootstrap and React.js.
     3.  Server side:  JavaScript / Node.js.
     4.  Amazon Web Services.
