@@ -1,4 +1,5 @@
 # News Application
+Click here to see the web application (Deployed on GCP): https://saurabhreactappfrontend.wl.r.appspot.com
 
 # Please see the Demo document for a runthrough. The application is compatible to all screen sizes.
 
